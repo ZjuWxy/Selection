@@ -8,7 +8,7 @@ import java.util.Scanner;
  *  and reads in data of various types from standard input, files.
  *  <p>
  *  For additional documentation, see
- *  https://github.com/YuKiJuDai1006/SelectionForDBPs
+ *  https://github.com/ZjuWxy/SelectionForDBPs
  *
  *  @author Wang Xinyang
  */
